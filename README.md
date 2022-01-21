@@ -5,6 +5,7 @@
 ##### python 3.7
 ##### librerias de vision artificial python 
 - Numpy 
+- Pandas
 - Tensorflow 
 - keras 
 -  matplotlib
