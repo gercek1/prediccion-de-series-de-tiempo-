@@ -17,5 +17,3 @@
 
 
 
-* Publicacion en la revista de la universidad simon bolivar
- https://revistas.unisimon.edu.co/index.php/identic/article/view/4008
